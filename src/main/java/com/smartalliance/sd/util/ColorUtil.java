@@ -1,19 +1,17 @@
 package com.smartalliance.sd.util;
 
-import com.smartalliance.sd.color.HsvSchema;
-import com.smartalliance.sd.color.RgbSchema;
-import com.smartalliance.sd.color.YuvSchema;
+import com.smartalliance.sd.color.Pixel;
 
 public class ColorUtil {
-    public static RgbSchema yuvToRgb(YuvSchema yuv){
+    public static Pixel yuvToRgb(Pixel yuv){
         throw new UnsupportedOperationException("Not implemented yet ...");
     }
 
-    public static HsvSchema rgbToHsv(RgbSchema rgb){
+    public static Pixel rgbToHsv(Pixel rgb){
         throw new UnsupportedOperationException("Not implemented yet ...");
     }
 
-    public static RgbSchema hsvToRgb(HsvSchema hsv){
+    public static Pixel hsvToRgb(Pixel hsv){
         throw new UnsupportedOperationException("Not implemented yet ...");
     }
 }
