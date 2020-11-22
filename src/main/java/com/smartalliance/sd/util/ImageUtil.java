@@ -1,9 +1,9 @@
 package com.smartalliance.sd.util;
 
-import java.io.File;
+import com.smartalliance.sd.analyzing.image.Image;
 
 public class ImageUtil {
-    public static File yuvToJpg(File fileYuv){
+    public static Image yuvToJpg(Image imageYuv){
         throw new UnsupportedOperationException("Not implemented yet ..."); // TODO
     }
 }
