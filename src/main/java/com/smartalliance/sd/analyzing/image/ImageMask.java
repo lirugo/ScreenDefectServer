@@ -1,4 +1,4 @@
-package com.smartalliance.sd.core.image;
+package com.smartalliance.sd.analyzing.image;
 
 public class ImageMask {
     private int width;

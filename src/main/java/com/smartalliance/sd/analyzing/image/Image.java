@@ -1,6 +1,6 @@
-package com.smartalliance.sd.core.image;
+package com.smartalliance.sd.analyzing.image;
 
-import com.smartalliance.sd.core.color.Pixel;
+import com.smartalliance.sd.analyzing.Pixel;
 import com.smartalliance.sd.enums.PixelType;
 
 public class Image {
