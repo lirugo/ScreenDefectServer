@@ -1,4 +1,4 @@
-package com.smartalliance.sd.color;
+package com.smartalliance.sd.core.color;
 
 public class Pixel {
     private short color1;

@@ -1,4 +1,4 @@
-package com.smartalliance.sd.color;
+package com.smartalliance.sd.enums;
 
 public enum PixelType {
     YUV,

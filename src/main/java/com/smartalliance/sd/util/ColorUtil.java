@@ -1,6 +1,6 @@
 package com.smartalliance.sd.util;
 
-import com.smartalliance.sd.color.Pixel;
+import com.smartalliance.sd.core.color.Pixel;
 
 public class ColorUtil {
     public static Pixel yuvToRgb(Pixel yuv){
